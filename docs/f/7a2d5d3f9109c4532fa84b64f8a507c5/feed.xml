@@ -19,7 +19,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 19 Aug 2026 13:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:57:14 +0000</lastBuildDate>
     <item>
       <title>2026-08-18 - Oman bomb threat, OpenAI&#x27;s Ohio megasite, Anthropic tops OpenAI</title>
       <description>Nvidia backstops OpenAI&#x27;s 10GW Ohio build; Anthropic&#x27;s run rate passes OpenAI ahead of a fall IPO; Meta&#x27;s child-safety trial opens with up to $1.4T at stake.</description>
@@ -28,6 +28,17 @@
       <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-18.mp3" length="5044896" type="audio/mpeg"/>
       <guid isPermaLink="false">kdb-2026-08-18</guid>
       <itunes:duration>00:14:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-08-13 - Grok 4.6 = GPT-5.6, Anthropic&#x27;s $3T IPO, Canada tariff crunch</title>
+      <description>Grok 4.6 reaches GPT-5.6-class quality at a fraction of the cost per task, while Anthropic&#x27;s October IPO chatter balloons toward $2-3T alongside a ~$6B Decart deal. Cooling U.S. inflation takes a September Fed hike off the table, and Canada-U.S. trade talks stall days before the Aug 19 tariff wave.</description>
+      <itunes:summary>Grok 4.6 reaches GPT-5.6-class quality at a fraction of the cost per task, while Anthropic&#x27;s October IPO chatter balloons toward $2-3T alongside a ~$6B Decart deal. Cooling U.S. inflation takes a September Fed hike off the table, and Canada-U.S. trade talks stall days before the Aug 19 tariff wave.</itunes:summary>
+      <pubDate>Thu, 13 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-13.mp3" length="4453920" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-13</guid>
+      <itunes:duration>00:12:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
