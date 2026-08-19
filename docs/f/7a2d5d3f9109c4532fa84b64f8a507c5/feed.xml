@@ -19,7 +19,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 19 Aug 2026 14:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:46:36 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-19 - Canada tariff pause, OpenAI freezes Astra, Iran talks collapse</title>
+      <description>Trump paused the 50% Canada tariff with under two hours to spare, and OpenAI halted training on its Astra model over critical cyber risk - the clearest case yet of a lab holding a model back. Iran talks collapsed, Metas youth-addiction trial opened, and long bond yields spiked past 5.3% on AI-debt fears.</description>
+      <itunes:summary>Trump paused the 50% Canada tariff with under two hours to spare, and OpenAI halted training on its Astra model over critical cyber risk - the clearest case yet of a lab holding a model back. Iran talks collapsed, Metas youth-addiction trial opened, and long bond yields spiked past 5.3% on AI-debt fears.</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-19.mp3" length="4812336" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-19</guid>
+      <itunes:duration>00:13:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-08-18 - Oman bomb threat, OpenAI&#x27;s Ohio megasite, Anthropic tops OpenAI</title>
       <description>Nvidia backstops OpenAI&#x27;s 10GW Ohio build; Anthropic&#x27;s run rate passes OpenAI ahead of a fall IPO; Meta&#x27;s child-safety trial opens with up to $1.4T at stake.</description>
