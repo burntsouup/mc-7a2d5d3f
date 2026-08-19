@@ -19,7 +19,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 19 Aug 2026 14:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:04:41 +0000</lastBuildDate>
     <item>
       <title>2026-08-18 - Oman bomb threat, OpenAI&#x27;s Ohio megasite, Anthropic tops OpenAI</title>
       <description>Nvidia backstops OpenAI&#x27;s 10GW Ohio build; Anthropic&#x27;s run rate passes OpenAI ahead of a fall IPO; Meta&#x27;s child-safety trial opens with up to $1.4T at stake.</description>
@@ -28,6 +28,17 @@
       <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-18.mp3" length="5044896" type="audio/mpeg"/>
       <guid isPermaLink="false">kdb-2026-08-18</guid>
       <itunes:duration>00:14:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-08-15 - Mangione guilty plea, Iran-Hormuz standoff, Colombia quake</title>
+      <description>A lighter weekend edition: Mangione pleads guilty federally with the state double-jeopardy fight now the thing to watch, and U.S. violent crime posts its largest annual decline on record. China opens its first Arctic Ice Silk Road lane to Europe, and Colombia&#x27;s quake toll reaches at least 281.</description>
+      <itunes:summary>A lighter weekend edition: Mangione pleads guilty federally with the state double-jeopardy fight now the thing to watch, and U.S. violent crime posts its largest annual decline on record. China opens its first Arctic Ice Silk Road lane to Europe, and Colombia&#x27;s quake toll reaches at least 281.</itunes:summary>
+      <pubDate>Sat, 15 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-15.mp3" length="3500928" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-15</guid>
+      <itunes:duration>00:09:43</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
