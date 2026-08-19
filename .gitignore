@@ -2,7 +2,9 @@ publish.py
 seed.py
 config.json
 episodes.json
+ledger.json
 script.txt
+script-*.txt
 *.log
 __pycache__/
 *.pyc
