@@ -1,0 +1,9 @@
+publish.py
+seed.py
+config.json
+episodes.json
+script.txt
+*.log
+__pycache__/
+*.pyc
+

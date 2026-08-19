@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle&#x27;s Daily Briefing</title>
+    <link>https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/</link>
+    <atom:link href="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>A personal daily news briefing compiled from The Economist, 1440, Semafor Flagship, The Peak, Axios AI+, The Neuron, Platformer, Benedict Evans, Money Stuff and more. Private feed.</description>
+    <itunes:summary>A personal daily news briefing compiled from The Economist, 1440, Semafor Flagship, The Peak, Axios AI+, The Neuron, Platformer, Benedict Evans, Money Stuff and more. Private feed.</itunes:summary>
+    <itunes:author>Kyle Czernuszka</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kyle Czernuszka</itunes:name>
+      <itunes:email>Kyle.Czernuszka@microsoft.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Wed, 19 Aug 2026 13:04:25 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-18 - Oman bomb threat, OpenAI&#x27;s Ohio megasite, Anthropic tops OpenAI</title>
+      <description>Nvidia backstops OpenAI&#x27;s 10GW Ohio build; Anthropic&#x27;s run rate passes OpenAI ahead of a fall IPO; Meta&#x27;s child-safety trial opens with up to $1.4T at stake.</description>
+      <itunes:summary>Nvidia backstops OpenAI&#x27;s 10GW Ohio build; Anthropic&#x27;s run rate passes OpenAI ahead of a fall IPO; Meta&#x27;s child-safety trial opens with up to $1.4T at stake.</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 13:04:25 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-18.mp3" length="5044896" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-18</guid>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
