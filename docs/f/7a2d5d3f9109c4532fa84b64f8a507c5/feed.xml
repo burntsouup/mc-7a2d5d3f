@@ -19,7 +19,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 24 Aug 2026 14:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:42:45 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-25 - AI routing squeezes labs, Canada auto tariffs, Iran Outcast</title>
+      <description>Routing software is commoditizing AI models - Stripe paid over $8bn for OpenRouter, the top five models there are all open-weight, and Anthropics Fable 5 captured just 11 percent of the companys corporate spend. Trump threatened fresh 50 percent auto and steel tariffs on Canada from Jan 1, Washingtons Iran sanctions landed with a China-sized hole, and the first fully autonomous AI drone kill was reported.</description>
+      <itunes:summary>Routing software is commoditizing AI models - Stripe paid over $8bn for OpenRouter, the top five models there are all open-weight, and Anthropics Fable 5 captured just 11 percent of the companys corporate spend. Trump threatened fresh 50 percent auto and steel tariffs on Canada from Jan 1, Washingtons Iran sanctions landed with a China-sized hole, and the first fully autonomous AI drone kill was reported.</itunes:summary>
+      <pubDate>Tue, 25 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-25.mp3" length="4612464" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-25</guid>
+      <itunes:duration>00:12:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-08-24 - Canada trade war, Iran sanctions D-Day, Anthropics record IPO</title>
       <description>The Canada-US trade war went live with 50 percent tariffs and Carney declaring Canada at war, while Bessent unveils sweeping Iran sanctions targeting third-country enablers. Anthropic is lining up a possible $100bn raise at a roughly $2T valuation, even as chip inflation and Chinese price pressure sharpen the AI-bubble questions.</description>
