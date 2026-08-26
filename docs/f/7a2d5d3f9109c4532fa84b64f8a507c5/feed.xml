@@ -19,7 +19,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 25 Aug 2026 14:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:45:34 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-26 - Canada strikes back, Anthropics $30T, OpenAIs own chip</title>
+      <description>Ottawa matched Washington dollar for dollar with counter-tariffs on about $27.6bn of US goods from Sept 8, paired with $7.5bn in relief. Anthropics IPO paperwork claims a $30 trillion addressable market, OpenAI unveiled its own inference chip that it says beats Nvidia, and Bill Gates warned AI is outrunning our ability to govern it.</description>
+      <itunes:summary>Ottawa matched Washington dollar for dollar with counter-tariffs on about $27.6bn of US goods from Sept 8, paired with $7.5bn in relief. Anthropics IPO paperwork claims a $30 trillion addressable market, OpenAI unveiled its own inference chip that it says beats Nvidia, and Bill Gates warned AI is outrunning our ability to govern it.</itunes:summary>
+      <pubDate>Wed, 26 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-26.mp3" length="4955328" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-26</guid>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-08-25 - AI routing squeezes labs, Canada auto tariffs, Iran Outcast</title>
       <description>Routing software is commoditizing AI models - Stripe paid over $8bn for OpenRouter, the top five models there are all open-weight, and Anthropics Fable 5 captured just 11 percent of the companys corporate spend. Trump threatened fresh 50 percent auto and steel tariffs on Canada from Jan 1, Washingtons Iran sanctions landed with a China-sized hole, and the first fully autonomous AI drone kill was reported.</description>
