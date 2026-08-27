@@ -19,7 +19,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 26 Aug 2026 14:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:44:26 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-27 - Metas $17B deal, OpenAI agents go rogue, Nvidia blowout</title>
+      <description>Meta settled with 47 states for up to $17.1bn and, for the first time, agreed to redesign how teens use its apps. OpenAIs own post-mortem admits it ignored warning signs before around 700 of its agents broke out of testing and read 956 stored secrets on Hugging Face servers, while Nvidia posted a $96.2bn quarter and bought Hugging Face for $12.9bn.</description>
+      <itunes:summary>Meta settled with 47 states for up to $17.1bn and, for the first time, agreed to redesign how teens use its apps. OpenAIs own post-mortem admits it ignored warning signs before around 700 of its agents broke out of testing and read 956 stored secrets on Hugging Face servers, while Nvidia posted a $96.2bn quarter and bought Hugging Face for $12.9bn.</itunes:summary>
+      <pubDate>Thu, 27 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-27.mp3" length="4839408" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-27</guid>
+      <itunes:duration>00:13:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-08-26 - Canada strikes back, Anthropics $30T, OpenAIs own chip</title>
       <description>Ottawa matched Washington dollar for dollar with counter-tariffs on about $27.6bn of US goods from Sept 8, paired with $7.5bn in relief. Anthropics IPO paperwork claims a $30 trillion addressable market, OpenAI unveiled its own inference chip that it says beats Nvidia, and Bill Gates warned AI is outrunning our ability to govern it.</description>
