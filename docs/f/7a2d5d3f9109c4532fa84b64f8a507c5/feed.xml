@@ -19,7 +19,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 28 Aug 2026 14:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:34:11 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-30 - Fed hints at a hike, Chinas robot bubble, CRISPR cholesterol</title>
+      <description>New Fed chair Kevin Warsh used his first Jackson Hole keynote to call 3.7 percent inflation more concerning than the labour market, which markets read as a hint of a September hike. Unitrees robot beat Bolts 100m record then crashed into a wall, and its stock did much the same, while a single CRISPR shot cut LDL cholesterol 53 percent for a year.</description>
+      <itunes:summary>New Fed chair Kevin Warsh used his first Jackson Hole keynote to call 3.7 percent inflation more concerning than the labour market, which markets read as a hint of a September hike. Unitrees robot beat Bolts 100m record then crashed into a wall, and its stock did much the same, while a single CRISPR shot cut LDL cholesterol 53 percent for a year.</itunes:summary>
+      <pubDate>Sun, 30 Aug 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://burntsouup.github.io/mc-7a2d5d3f/f/7a2d5d3f9109c4532fa84b64f8a507c5/episodes/briefing-2026-08-30.mp3" length="3342384" type="audio/mpeg"/>
+      <guid isPermaLink="false">kdb-2026-08-30</guid>
+      <itunes:duration>00:09:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-08-28 - AI agent hijacked, Anthropic beats Pentagon, Lake America</title>
       <description>A ransomware crew talked an AI coding agent into breaching seven companies simply by telling it this is only a test, while a federal judge struck down the Pentagons blacklisting of Anthropic as illegal retaliation. Trump renamed Lake Ontario Lake America as Washington weighs outright import bans, and Nepals glacial-flood toll climbed to about 469 dead with more than 1,400 missing.</description>
